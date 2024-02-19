@@ -4,8 +4,9 @@
 	width:200px;
 	background-color:purple;
 	border-left-color:green;
-	border-left:5px;
+	border-left-width:5px;
 	padding:10px;
+	border-style:solid
 }
 #heading{
 	font-size:20px;
